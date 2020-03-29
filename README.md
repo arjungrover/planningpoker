@@ -14,7 +14,7 @@ This is the backend for the Planning Poker
     sudo apt-get install redis-server
     sudo apt-get install rabbitmq-server
 7. Clone the project from the gitlab:
-    git clone git@code.jtg.tools:inductions/induction-2020/planningpoker.git
+    git clone https://github.com/arjungrover/planningpoker.git
 8. Navigate to the directory planningpoker
 9. Create a database in postgres and grant all privileges on database to the user
 10. Run the migrations
