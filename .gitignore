@@ -1,0 +1,4 @@
+*.pyc
+.vscode
+celerybeat-schedule
+celerybeat.pid

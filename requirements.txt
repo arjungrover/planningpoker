@@ -1,0 +1,10 @@
+djangorestframework==3.11.0
+psycopg2==2.8.4
+amqp==2.5.2
+celery==4.4.0
+pytz==2019.3
+django-cors-headers==3.2.1
+requests==2.22.0
+django-background-tasks==1.2.5
+channels==1.1.8
+asgi-redis==1.4.3
